@@ -7,7 +7,7 @@ This project reads data from a PostgreSQL table and inserts it into a Snowflake 
 - Creates a table in Snowflake if it doesn't exist
 - Inserts data into Snowflake
 - Verifies insertion
-
+ 
 ## Requirements
 - Python 
 - psycopg2
